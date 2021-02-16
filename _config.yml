@@ -23,8 +23,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://sh4d3-pwn3r.github.io/jekyll-klise/" #
+baseurl: '/'
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
