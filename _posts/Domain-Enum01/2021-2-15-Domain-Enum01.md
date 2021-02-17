@@ -6,7 +6,7 @@ featured-img: apple-icon.png
 categories: [Network, Active-Directory]
 tags: [Network, Active-Directory]
 ---
-<img src="/Domain-Enum01/ad-thumb01.png" alt="Domain-Enum01">
+<img src="https://i.imgur.com/1iYVeY0.png" alt="Domain-Enum01">
 
 In this part we will discus Domain Enumration using PowerView or ADModule and I'll use PowerView.
 
