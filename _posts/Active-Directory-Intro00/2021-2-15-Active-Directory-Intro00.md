@@ -4,7 +4,7 @@ title: Introduction to Active Directory 00
 discreption: Some stuffs you should to know about Active Directory befor Getting deeper
 featured-img: apple-icon.png
 categories: [Network, Active-Directory]
-tags: [Network, Active-Directory]
+tags: [Network, Active-Directory] 
 ---
 <img src="https://i.imgur.com/JQ4TC12.png" alt="Active-Directory-Intro00">
 
