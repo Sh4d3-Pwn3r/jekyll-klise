@@ -41,7 +41,7 @@ forest is the highst level of the organization hierarchy and it contains a colle
 
 It is a container holds Active Directory objects like users, groups, and computers, it is the smallest unit in AD, the administrator can assign group policy settings or account permissions, and OU cant contain objects from another Domain. 
 
-## Trust:
+## Trust: 
 
 Its way to let more than differant Domain can access resources between other in order to gain permission to this resources, there are two type of trusts. 
 
