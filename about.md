@@ -12,5 +12,5 @@ If you have a question about him or else, just send a letter to him.
 
 **may u needs ✨**
 
-- [email](sh4d3-pwn3r@outlook.com)
-- github.com/Sh4d3-pwn3r
+- <a href="sh4d3-pwn3r@outlook.com" target="_blank" rel="noopener">Email</a>
+- <a href="github.com/Sh4d3-pwn3r" target="_blank" rel="noopener">GitHub</a>
