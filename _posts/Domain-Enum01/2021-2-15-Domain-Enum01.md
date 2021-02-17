@@ -3,7 +3,7 @@ author: Sh4d3
 title: Active Directory (Domain Enumeration) 01
 discreption: In this part we will talk about Domain Enumeration
 featured-img: apple-icon.png
-categories: [Network, Active-Directory]
+categories: [Network, Active-Directory] 
 tags: [Network, Active-Directory]
 ---
 <img src="https://i.imgur.com/1iYVeY0.png" alt="Domain-Enum01">
