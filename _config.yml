@@ -1,32 +1,40 @@
 # Site settings
-title: Klise Theme # site title
+title: Sh4d3-Pwn3r # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  I'm 21 y/o, only interested in RedTeaming, I made this blog to sharing my knowlage and what I learned  about CyberSecurity with you, I hope it will be useful.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Africa/Egypt # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/Sh4d3-Pwn3r/sh4d3-pwn3r.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Sh4d3-Pwn3r # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+    I'm 21 y/o, only interested in RedTeaming, I made this blog to sharing my knowlage and what I learned  about CyberSecurity with you, I hope it will be useful, 
+    meet Sh4d3-Pwn3r at <a href="https://github.com/Sh4d3-Pwn3r" target="_blank" rel="noopener">@github</a>.
+  username: Sh4d3-Pwn3r # general username
+  github: Sh4d3-Pwn3r # github username
+  #twitter: twitter_username # twitter username
+  #facebook: facebook_username # facebook username
+  #email: your-email@email.com # email adress
+  avatar: https://i.imgur.com/YBvWC7E.png # change with your own avatar
 
 # URL settings
-url: "https://sh4d3-pwn3r.github.io/jekyll-klise/" #
+url: "https://sh4d3-pwn3r.github.io/" #
 baseurl: '/'
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics:
+  id: 'G-PF0YFHP4G2'          # Fill with your Google Analytics ID
+  pv:
+    # The Google Analytics pageviews switch.
+    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
+    enabled: false
+    # the next options only valid when `google_analytics.pv` is enabled.
+    proxy_url: ''
+    proxy_endpoint: ''
+    cache: false  # pv data local cache, good for the users from GFW area.
 fb_appid:
 
 # Collection setting
