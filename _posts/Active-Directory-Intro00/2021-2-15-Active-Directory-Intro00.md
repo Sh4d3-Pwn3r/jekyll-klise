@@ -6,7 +6,7 @@ featured-img: apple-icon.png
 categories: [Network, Active-Directory]
 tags: [Network, Active-Directory]
 ---
-<img src="/Active-Directory-Intro00/ad-thumb00.png" alt="Active-Directory-Intro00">
+<img src="https://i.imgur.com/JQ4TC12.png" alt="Active-Directory-Intro00">
 
 ## Active Directory (AD):
 
