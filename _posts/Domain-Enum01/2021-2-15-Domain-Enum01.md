@@ -318,6 +318,10 @@ Using powershell module ingestor
 
 ```console
 PS C:\Users\adlab> . .\SharpHound.ps1
+```
+
+
+```console
 PS C:\Users\adlab> Invoke-BloodHound -CollectionMethod All
 ```
 
