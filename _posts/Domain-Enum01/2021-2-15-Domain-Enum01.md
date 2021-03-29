@@ -313,14 +313,11 @@ PS C:\Users\adlab> . .\NetCease.ps1
 There is another interesting script from the same auther is SAMRi10 which hardens Windows10 and windows server 2016 against enumertion which uses SAMAR protocol like (net.exe)
 
 ### Enumeration Using BloodHound:
-    
-# Using powershell module ingestor
+
+Using powershell module ingestor
 
 ```console
 PS C:\Users\adlab> . .\SharpHound.ps1
-```
-
-```console
 PS C:\Users\adlab> Invoke-BloodHound -CollectionMethod All
 ```
 
