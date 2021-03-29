@@ -320,9 +320,14 @@ Using powershell module ingestor
 PS C:\Users\adlab> . .\SharpHound.ps1
 ```
 
-
 ```console
 PS C:\Users\adlab> Invoke-BloodHound -CollectionMethod All
+```
+
+Using powershell module ingestor
+
+```console
+PS C:\Users\adlab> .\SharpHound.exe -CollectionMethod All
 ```
 
 And now we finish this sieres (Active Directory Enumeration) in the next sieres we will talk about Local Privilege Escalation part , I hope you enjoy reading .. see you <3.
